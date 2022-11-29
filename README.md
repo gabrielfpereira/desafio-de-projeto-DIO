@@ -3,11 +3,11 @@
 
 Esse é um desafio de projeto em que coloco em prática 
 meu conhecimento sobre Git | GitHub e também poder 
-compartilhar minhas conquistas ao longo do tampo.
+compartilhar minhas conquistas ao longo do tempo.
 
 ## 🏆Conquistas
 
-Vou listar abaixo algumas cursos e certificações ques conquistei.
+Vou listar abaixo alguns cursos e certificações que conquistei.
 
 ### Certificados DIO
 
